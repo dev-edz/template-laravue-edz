@@ -16,3 +16,5 @@ use App\Http\Controllers\SPAController;
 
 Route::get('/{vue_capture?}', [SPAController::class, 'index'])
     ->where('vue_capture', '[\/\w\.-]*');
+
+
