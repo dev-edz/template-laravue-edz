@@ -25,12 +25,6 @@
                 </v-list-item>
             </v-list>
             <template v-slot:append>
-                <!-- <div class="pa-2">
-                    <v-card elevation="4">
-                        <v-img src="/images/ehdf_qr.png"></v-img>
-                        <v-card-subtitle class="d-flex display-1 pa-0 justify-center text-uppercase">Scan Me</v-card-subtitle>
-                    </v-card>
-                </div> -->
             </template>
         </v-navigation-drawer>
         <v-app-bar 
@@ -65,7 +59,7 @@
                 class="text-center pa-0"
                 cols="12"
             >
-                {{ new Date().getFullYear() }} — <strong>POEA - ICT</strong>
+                {{ new Date().getFullYear() }} — <strong>Footer</strong>
             </v-col>
         </v-footer>
     </v-app>
