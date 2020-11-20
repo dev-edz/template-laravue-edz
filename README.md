@@ -2,7 +2,7 @@
 
 A Basic Laravel 8 App Template using VueJS for front-end for beginners.
 
-*Note: UI Framework: Vuetify, Router: Vue-Router, State-Management: Vuex
+*Note: UI Framework: Vuetify, Router: Vue-Router, State-Management: Vuex, System Environment: Windows OS.
 
 ## How to clone and setup this template?
 
