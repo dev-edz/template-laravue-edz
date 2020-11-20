@@ -10,8 +10,6 @@ Vue.prototype.$http = Axios;
 window.vue = Vue;
 Vue.config.productionTip = false;
 
-// Monitor
-// Vue.component('transactions-component', require('./components/monitoring/Transactions.vue').default);
 
 new Vue({
     router,
