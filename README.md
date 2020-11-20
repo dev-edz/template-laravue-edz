@@ -10,3 +10,5 @@ Basic Laravel App Template using VueJS for front-end.
     $ composer install
     $ npm install && npm run dev
 ```
+
+*Note: wait for each process to be completed before running the next command...
