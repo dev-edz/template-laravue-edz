@@ -1,6 +1,8 @@
 ## About The Template
 
-Basic Laravel App Template using VueJS for front-end.
+A Basic Laravel 8 App Template using VueJS for front-end for beginners.
+
+*Note: UI Framework: Vuetify, Router: Vue-Router, State-Management: Vuex
 
 ## How to clone and setup this template?
 
